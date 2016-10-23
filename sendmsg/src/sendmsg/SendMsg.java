@@ -8,7 +8,7 @@ import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 /*
- * condition: read file time << sleep time
+ * condition: read file time << sleep time1
  * spy_path: store control file
  * raw_path: store raw file
  * default speed: 10log/1000ms
